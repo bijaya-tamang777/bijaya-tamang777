@@ -1,8 +1,8 @@
-<h1 align="center" Namaste, I'm Bijaya Tamang </h1>
+<h2 align="center" Namaste, I'm Bijaya Tamang </h2>
 
-🧑‍💻 ****| Aspiring Frontend Developer | Learning & Growing |****    
+<h2>| Aspiring Frontend Developer | Learning & Growing |  </h2>
 
-  <img src="https://github.com/user-attachments/assets/d952d95b-1bf8-42cf-a770-35f4b818f5a4" align="right" alt="Your Image" width="600">
+  <img src="https://github.com/user-attachments/assets/d952d95b-1bf8-42cf-a770-35f4b818f5a4" align="right" alt="Your Image" width="400">
 
 🪦 **Not Yet Working**        
   
