@@ -5,7 +5,7 @@
 
 </div>
 
-<img src="https://res.cloudinary.com/dp27ua535/image/upload/v1766822804/bijayaa__1_-removebg-preview_t5kfme.png" align="right" width="300" />
+<img src="https://res.cloudinary.com/dp27ua535/image/upload/v1766822804/bijayaa__1_-removebg-preview_t5kfme.png" align="right" width="330" />
 
 <h3>About Me</h3> 
 
