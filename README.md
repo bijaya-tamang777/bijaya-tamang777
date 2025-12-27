@@ -2,12 +2,13 @@
 
 # Bijaya Tamang 👋  
 **Web Developer | Modern Web Experiences | Creative & Professional**
-
 </div>
+
+<h3>About Me</h3>
+
 
 <img src="https://res.cloudinary.com/dp27ua535/image/upload/v1766822804/bijayaa__1_-removebg-preview_t5kfme.png" align="right" width="330" />
 
-<h3>About Me</h3> 
 
 I am a **MERN Stack Developer** with hands-on experience designing, building, and deploying **full-stack web applications**. I focus on writing **maintainable, scalable, and secure code**, while delivering clean and intuitive user interfaces.
 
